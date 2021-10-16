@@ -19,5 +19,8 @@ I believe there is an opportunity for communities to step up and help those in n
 ## Project Documentation
 Available in project documentation folder
 
+## Vlogs
+<li> <a href= "https://youtu.be/56oyoGJy4ck">Project Activity # 1</a> </li>
+
 
 
