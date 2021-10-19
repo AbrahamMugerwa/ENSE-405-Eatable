@@ -17,7 +17,7 @@ According to the World Food Programme, 135 million suffer from acute hunger larg
 I believe there is an opportunity for communities to step up and help those in need in a way that is simple and easy. Since we see a lot of food everyday go to waste from restaurants, or people unsure of what they can and cannot donate, this application intends to help restaurants and surrounding members of the community provide meals for school kids in need to reduce waste. In Regina, there is a lack of facilities for underprivileged school kids to access free meals at school. Although there are some small programs that try to help provide for such kids, I believe there is an opportunity for restaurants to donate food that would otherwise be thrown out, and instead contributing it to schools in their community. 
 
 ## Project Documentation
-Available in project documentation folder
+<li> <a href= "https://github.com/AbrahamMugerwa/ENSE-405-Eatable/tree/main/Project%20Documentation">Project Activity #1 Documentation</a> </li>
 
 ## Vlogs
 <li> <a href= "https://youtu.be/56oyoGJy4ck">Project Activity # 1</a> </li>
