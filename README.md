@@ -18,6 +18,7 @@ I believe there is an opportunity for communities to step up and help those in n
 
 ## Project Documentation
 <li> <a href= "https://github.com/AbrahamMugerwa/ENSE-405-Eatable/tree/main/Project%20Documentation">Project Activity #1 Documentation</a> </li>
+<li> <a href= "https://github.com/AbrahamMugerwa/ENSE-405-Eatable/tree/main/Project%20Activity%20%232%20Documentation">Project Activity #2 Documentation</a> </li>
 
 ## Vlogs
 <li> <a href= "https://youtu.be/56oyoGJy4ck">Project Activity # 1</a> </li>
