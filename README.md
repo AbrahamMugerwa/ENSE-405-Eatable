@@ -27,5 +27,29 @@ I believe there is an opportunity for communities to step up and help those in n
 ## Vlogs
 <li> <a href= "https://youtu.be/56oyoGJy4ck">Project Activity # 1</a> </li>
 
+## Installation steps
+To allow for wordpress installation we will first get a development tool  to work on wordpress locally for wordpress called local by flywheel
+-	Local by flywheel can be downloaded and installed from https://localwp.com/
+Add a local site, and set up the environment
+-	Give your site a name
+-	Choose preferred environment
+-	Set up wordpress username and password
+-	Add site
+
+Run the site
+Install the following pluginson wordpress:
+-	AutomatorWP
+-	AutomatorWP – WooCommerce integration
+-	Checkout Field Editor for Woocommerce
+-	Extra Product options for woocommerce
+-	Gamipress
+-	Redirection
+-	Shipday Integration for WooCommerce
+-	Sign-up Sheets
+-	Starter Templates
+-	Ultimate addons for Gutenberg
+-	Volunteer Sign Up Sheets
+-	Woocommerce
+-	WP Bottom Menu
 
 
