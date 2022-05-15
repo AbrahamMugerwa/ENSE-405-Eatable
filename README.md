@@ -26,7 +26,8 @@ I believe there is an opportunity for communities to step up and help those in n
 
 ## Vlogs
 <li> <a href= "https://youtu.be/56oyoGJy4ck">Project Activity # 1</a> </li>
-
+<li> <a href = "https://www.youtube.com/watch?v=vECU2mrIVCw">Project commercial<a/> </li>
+      
 ## Installation steps
 To allow for wordpress installation we will first get a development tool  to work on wordpress locally for wordpress called local by flywheel
 -	Local by flywheel can be downloaded and installed from https://localwp.com/
