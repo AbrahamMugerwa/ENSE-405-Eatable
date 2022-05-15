@@ -37,7 +37,7 @@ Add a local site, and set up the environment
 -	Add site
 
 Run the site
-Install the following pluginson wordpress:
+Install the following plugins on wordpress:
 -	AutomatorWP
 -	AutomatorWP – WooCommerce integration
 -	Checkout Field Editor for Woocommerce
